@@ -8,8 +8,12 @@
 MORE DESCRIPTION HERE
 
 ## MVP
-### Below is the list of minimum features this project requires to meet its goals:
+### Below is a list of minimum features this project requires to meet its goals:
 
+1.
+2.
+3.
+4.
 
 ## Setup/Installation Requirements
 
