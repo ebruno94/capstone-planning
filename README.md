@@ -1,6 +1,6 @@
-# CAPSTONE TITLE HERE
+# CONSTRUCTION COMPANY
 
-#### CAPSTONE SHORT DESCRIPTION
+#### Let's build some things
 #### By **Ernest Bruno**
 
 ## Description
