@@ -7,6 +7,10 @@
 
 Allows users to learn more about the construction company. Users are able to set up appointments with contractor and Admins are allowed to access a list of messages, appointments and inquiries.
 
+## COMPONENT MAP ROUGH DRAFT
+
+![alt text](https://github.com/ebruno94/capstone-planning/blob/master/image.jpg)
+
 ## MVP
 ### Below is a list of minimum features this project requires to meet its goals:
 
