@@ -5,15 +5,18 @@
 
 ## Description
 
-MORE DESCRIPTION HERE
+Allows users to learn more about the construction company. Users are able to set up appointments with contractor and Admins are allowed to access a list of messages, appointments and inquiries.
 
 ## MVP
 ### Below is a list of minimum features this project requires to meet its goals:
 
-1.
-2.
-3.
-4.
+1. The website contains at least the following: Contact page, Admin Login page, Portfolio page, About Us page, Homepage that includes a brief description of the company -- its mission, values, some photos, etc.
+2. Admin Login Page leads to admin powers
+  - Admins are allowed to see a list of messages, appointments and inquiries made by visitors.
+  - Along with the messages include visitor's contact info (email and phone number).
+  - Admins are able to add pictures to their portfolio, along with a title of the photo.
+3. Users can navigate through different pages to view different things about the company.
+4. Users/visitors are able to send inquiries to company owner via Contact page (via user form)
 
 ## Setup/Installation Requirements
 
